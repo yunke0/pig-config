@@ -6,7 +6,7 @@ jasypt:
 # Spring 相关
 spring:
   redis:
-    password: 123456
+   # password: 123456
     host: pig-redis
   # zipkin
   zipkin:
